@@ -1,6 +1,6 @@
 <div align = "center">
   <h1>Oxi1224</h1>
-  <p>Hello, I am a high school student who enjoys creating all kinds of projects</p>
+  <p>Hello, I am a high school student. I enjoy challenging myself by always doing something new</p>
   <h2>Languages and tools</h2>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
